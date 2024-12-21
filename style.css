@@ -17,7 +17,7 @@ body {
   height: 100vh;
 }
 .left {
-  background-image: url(/images/bg-pattern-desktop.svg);
+  background-image: url(./images/bg-pattern-desktop.svg);
   background-size: cover;
   width: 60%;
   padding: 20px;
