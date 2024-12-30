@@ -28,7 +28,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KkPRCJ1-GI
 - Live Site URL: https://ilham-bouk.github.io/base-apparel-coming-soon-page/
 
 ## My process
