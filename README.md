@@ -1,4 +1,4 @@
-# Frontend Mentor - Sunnyside agency landing page solution
+# Frontend Mentor - Base Apparel Coming Soon Page
 
 ## Welcome! 👋
 
